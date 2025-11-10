@@ -1,4 +1,5 @@
-module github.com/Shrinivas2708/toon
+module github.com/Shrinivas2708/go-toon
+
 
 go 1.25.0
 

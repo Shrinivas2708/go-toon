@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Shrinivas2708/toon"
+	"github.com/Shrinivas2708/go-toon"
 	tiktoken "github.com/pkoukk/tiktoken-go"
 )
 
