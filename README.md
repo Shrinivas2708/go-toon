@@ -8,7 +8,7 @@ Its primary design goal is to be **token-efficient** for language model (LLM) co
 
 ## 🌟 Why TOON?
 
-JSON is verbose. `go-toon` converts complex data into a minimal format, dramatically reducing token count.
+JSON is verbose. `go-toon ` converts complex data into a minimal format, dramatically reducing token count.
 
 **JSON (compact):**
 ```json
